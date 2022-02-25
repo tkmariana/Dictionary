@@ -1,0 +1,75 @@
+Le mot
+noun
+word
+le garcon
+noun
+boy
+jeune
+adjective
+young
+le boulanger
+noun
+baker
+le fille
+noun
+girl
+francais
+adjective
+french
+le livre
+noun
+book
+l'ecole
+noun
+school
+la maison
+noun
+house
+etre
+verb
+to be
+apres
+preposition
+after
+voir
+verb
+to see
+dire
+verb
+to say
+aller
+verb
+to go
+bon
+adjective
+good
+le mandi
+noun
+tuesday
+la salle
+noun
+room
+elle
+pronoun
+she
+le jour
+noun
+day
+aujourd'hui
+adverb
+today
+la pluie
+noun
+rain
+le cheval
+noun
+horse
+le moulin
+noun
+mill
+rouge
+adjective
+red
+la neige
+noun
+snow

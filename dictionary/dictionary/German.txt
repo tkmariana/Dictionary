@@ -1,0 +1,75 @@
+der Mann
+noun
+man
+das Ol
+noun
+oil
+die Frau
+noun
+woman
+das Fraulein
+noun
+miss
+das Madchen
+noun
+girl
+das King 
+noun
+child
+das Haus
+noun
+house
+Die Schule
+noun
+school
+die tur
+noun
+door
+kommen
+verb
+to come
+gehen
+verb
+to go
+sehen
+verb
+to see
+wollen
+verb
+to want
+wissen
+verb
+to know
+konnen
+verb
+to be able
+vor
+preposition
+Before
+nach
+preposition
+After
+zu
+preposition
+to
+bis
+preposition
+until
+ohne
+preposition
+without
+eins
+cardinal number
+one
+zwei
+cardinal number
+two
+drei
+cardinal number
+three
+hoch
+adverb
+high
+gut 
+adjective/adverb
+good
